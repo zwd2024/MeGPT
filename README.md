@@ -13,6 +13,7 @@ With the rapid development of artificial intelligence technology, the automatic 
 Git clone our repository and install the requirements.
 
 ```bash
+git clone https://github.com/zwd2024/MeGPT.git
 cd R2GenGPT
 pip install -r requirements.txt
 ```
